@@ -15,12 +15,13 @@ function App() {
 
   const randomColorChangeHandler = () => {
     const randomColor = Math.ceil(Math.random() * randomColors.length);
+    setRandomColor(randomColors[randomColor]);
   };
 
   return (
-    <div className="App">
+    <div className="App" style={{ backgroundColor: color }}>
       <p>Change Random Background color</p>
-      <button>Change</button>
+      <button onClick={randomColorChangeHandler}>Change</button>
     </div>
   );
 }
