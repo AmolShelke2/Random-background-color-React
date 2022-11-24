@@ -2,11 +2,18 @@
 
 This is a basic ReactJS Background color changer website. Created to practice the useState hook. After learning about the React useState hook I wanted to practice about it so I created this small and basic project.
 
-## Tech stack
+# Tech stack
 
 - HTML
 - CSS
 - ReactJS.
+
+# Preview
+
+https://user-images.githubusercontent.com/95171638/203742229-0af25c60-5a8e-4066-8850-c8c1a6cf66e7.mp4
+
+
+# Live Preview
 
 # Getting Started with Create React App
 
