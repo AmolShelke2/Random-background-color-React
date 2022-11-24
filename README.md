@@ -1,3 +1,13 @@
+# Random Background color
+
+This is a basic ReactJS Background color changer website. Created to practice the useState hook. After learning about the React useState hook I wanted to practice about it so I created this small and basic project.
+
+## Tech stack
+
+- HTML
+- CSS
+- ReactJS.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
