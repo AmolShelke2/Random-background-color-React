@@ -8,12 +8,13 @@ This is a basic ReactJS Background color changer website. Created to practice th
 - CSS
 - ReactJS.
 
+# Live Preview
+[Random background color React](https://random-background-color-react.vercel.app/)
+
 # Preview
 
 https://user-images.githubusercontent.com/95171638/203742229-0af25c60-5a8e-4066-8850-c8c1a6cf66e7.mp4
 
-
-# Live Preview
 
 # Getting Started with Create React App
 
